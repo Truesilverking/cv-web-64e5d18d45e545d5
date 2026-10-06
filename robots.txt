@@ -1,0 +1,3 @@
+# Pages declare noindex directly so crawlers can read the directive.
+User-agent: *
+Allow: /
